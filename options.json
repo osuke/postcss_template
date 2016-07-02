@@ -1,0 +1,7 @@
+{
+  "use": ["autoprefixer", "postcss-import", "csswring"],
+  "local-plugins": true,
+  "output": "css/style.css",
+  "input": "src/style.css",
+  "watch": true
+}

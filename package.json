@@ -1,0 +1,17 @@
+{
+  "name": "postcss_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postcss": "postcss -c options.json"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "csswring": "^5.1.0",
+    "postcss-cli": "^2.5.2",
+    "postcss-import": "^8.1.2"
+  }
+}
